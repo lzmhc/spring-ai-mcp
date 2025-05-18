@@ -29,6 +29,12 @@
 >
 > 邮箱：lzmhc.top@foxmail.com
 
+### 截图
+
+![](./images/1.jpg)
+
+![](./images/2.jpg)
+
 ### 致谢
 
 [modelcontextprotocol.servers](https://github.com/modelcontextprotocol/servers/tree/main)
