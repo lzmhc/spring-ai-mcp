@@ -23,17 +23,25 @@
 - get_file_info获取文件信息（未实现）
 - list_allowed_directories获取授权文件目录
 
-> 说明: 如果是mvc模式可以看[modelcontextprotocol.servers](https://github.com/modelcontextprotocol/servers/tree/main)，node版本的代码，使用也很简单，按照官网的即可。由于我的项目是webflux,使用node版本的会阻塞，所以自己实现了一下文件操作。上述功能方法均按照modelcontextprotocol.servers项目的功能开发，可能会略有不同，我会尽量保持相同的操作逻辑，代码中如有错误，欢迎交流。
->
-> QQ：2910463910
->
-> 邮箱：lzmhc.top@foxmail.com
+###### 搜索引擎查询BrowserService.java
+
+- brave_web_search 网络查询
+
+#### 说明 
+
+上述功能方法均按照modelcontextprotocol.servers项目的功能开发，可能会略有不同，我会尽量保持相同的操作逻辑，代码中如有错误，欢迎交流。
+
+QQ：2910463910
+
+邮箱：lzmhc.top@foxmail.com
 
 ### 截图
 
 ![](./images/1.jpg)
 
 ![](./images/2.jpg)
+
+![](./images/3.jpg)
 
 ### 致谢
 
